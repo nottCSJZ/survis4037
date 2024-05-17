@@ -1,0 +1,1 @@
+define({ availableImg: ["Badrinarayanan2017SegNet","Chen2016attention","Chen2018asc","Chen2018maskLab","Fu2019attention","Girshick2014feature","KH2017mrcnn","Lin2017refineNet","Long2015fcn","Ronneberger2015UNet"]});
